@@ -8,8 +8,9 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 mathjax: true
 tags:
-    - NLP
+    - 论文笔记
 ---
 
 ## Topic Sentiment Analysis in Twitter: A Graph-based Hashtag Sentiment Classification Approach
 
+Topic Sentiment Analysis in Twitter: A Graph-based Hashtag Sentiment Classification Approach
